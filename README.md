@@ -1,6 +1,3 @@
-<!--
-**potatoman2023/potatoman2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm POTATOMAN</h1>
 <h3 align="center">I'm just another unmotivated potato that does things randomly</h3>
 
@@ -11,4 +8,3 @@
 <h3 align="center">Motivation Indicator</h3>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=potatoman2023&theme=dark" alt="potatoman2023" /></p>
-
